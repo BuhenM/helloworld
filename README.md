@@ -1,2 +1,8 @@
 # helloworld
-repository for Java class
+Repository for Java class
+Group 1:
+Marceline
+Nick
+Eric
+Ulisses
+Dulce
